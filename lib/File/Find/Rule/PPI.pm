@@ -36,7 +36,7 @@ use Params::Util      0.10 '_INSTANCE';
 use File::Find::Rule  0.20 ();
 use PPI              1.000 ();
 
-our $VERSION = '1.07';
+our $VERSION = '1.08';
 our @ISA     = 'File::Find::Rule';
 our @EXPORT  = @File::Find::Rule::EXPORT;
 
