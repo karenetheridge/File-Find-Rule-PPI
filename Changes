@@ -1,6 +1,6 @@
 Revision history for Perl extension File::Find::Rule::PPI
 
-{{$NEXT}}
+1.07      2023-04-28 12:30:26Z
         - tooling conversions
 
 1.06    2010-10-06
